@@ -18,13 +18,21 @@ Python'da çeşitli kütüphaneler kullanılarak veri temizleme ve feature engin
 📌 Proje Dosyaları
 
 📁 train.csv/ → Ham veri
+
 📁 testFeatures.csv/ → Tahmin edilmesi istenen veri
+
 📁 trained_test_table.csv/ → Tahmin edilen veri(2024)
+
 📁 final_table.csv / Eğitim verisi(2019-2023) ve tahmin (2024) verisinin birleştirilmiş hali
+
 🐍 trained_test_table.sql/ → Veri birleştirme sorguları
+
 🐍 product_price_prediction.ipynb/ → Jupiter notebook
+
 📊 product_price_change.twb / → Tableau dashboard dosyası
+
 📊 dashboard.pdf/ → Tableau dashboard'un pdf hali
+
 📜 readme.txt → Proje açıklaması(bu dosya)
 
 
