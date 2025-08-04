@@ -9,9 +9,13 @@ Python'da çeşitli kütüphaneler kullanılarak veri temizleme ve feature engin
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 
 📂 Veri Kaynağı: https://www.kaggle.com/competitions/academy2025/data?select=testFeatures.csv
-🐍 Veri temizleme & Model oluşturma: Python (NumPy, Pandas, Matplotlib, XGBoost), 
+
+🐍 Veri temizleme & Model oluşturma: Python (NumPy, Pandas, Matplotlib, XGBoost)
+
 🐍 Veri birleştirme: SQL
+
 📊 Görselleştirme: Tableau
+
 
 
 
