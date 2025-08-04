@@ -19,7 +19,7 @@ Python'da çeşitli kütüphaneler kullanılarak veri temizleme ve feature engin
 
 
 
-📌 Proje Dosyaları
+## 📌 Proje Dosyaları
 
 📁 train.csv/ → Ham veri
 
